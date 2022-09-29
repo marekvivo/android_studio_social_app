@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505987235672",
+    "project_id": "fyp2022-729c9",
+    "storage_bucket": "fyp2022-729c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505987235672:android:2b341168d8496780732f2d",
+        "android_client_info": {
+          "package_name": "com.example.findr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505987235672-1vb568koiprv96e3h46q1ui0ei8lu4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWQVBw5CLZQc7o5kte5ULi5VihnPRe4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505987235672-1vb568koiprv96e3h46q1ui0ei8lu4jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

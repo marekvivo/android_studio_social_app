@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/profile_interest_item_layout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Description"
+        android:textColor="@color/black"
+        android:layout_centerVertical="true"
+        android:padding="5dp"
+        android:id="@+id/profile_interest_description_textview">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="GENRE ID"
+        android:padding="5dp"
+        android:textSize="20dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/profile_interest_genreId_textview">
+
+    </TextView>
+
+</RelativeLayout>
